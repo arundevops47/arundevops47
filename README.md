@@ -6,7 +6,7 @@
 
 ## How to find me: 
 
-  - [LinkedIn](linkedin.com/in/arun-verma-1b708248)
+  - [LinkedIn](https://www.linkedin.com/in/arun-verma-1b708248)
   - [Facebook](https://www.facebook.com/arundevops)
   - [Twitter](https://twitter.com/arundevops)
   
