@@ -2,7 +2,7 @@
 
 - I am a full stack developer
 - I am expert in both Backend and Frontend tools
-- I am expert in both MEAN and MERN terminology
+- I am expert in both MEAN Stack and MERN Stack
 
 ## How to find me: 
 
