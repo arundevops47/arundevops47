@@ -1,6 +1,6 @@
 # Hi there. I am Arun 👋
 
-I am Full stack developer and having 6 years of experience.
+I am Full stack developer and having 5 years of experience.
 
 I'm specialized in:
 
