@@ -4,18 +4,17 @@ I am Full stack developer and having 5 years of experience.
 
 I'm specialized in:
 
-- Backend programming languages: Node.js, Nest.js, PHP, Laravel Framework
+- Backend programming languages: Python, Node.js, Nest.js, PHP, Django, Flask, Laravel Framework
 - Frontend programming languages: React.js, Next.js, Vue.js, Angular
 - Mobile app programming language: React Native
 - Database: MySQL, Postgresql, NoSQL, MongoDB, GraphQL
 - JavaScript, Typescript, jQuery, Underscore.js
 - HTML, CSS, Twitter Bootstrap, Tailwindcss, Material-UI
-- Shopify E-commerce app development, Theme customization.
 - RESTful and Soap API
 - Paypal and Stripe payment integration
 - AWS/EC2/S3, FireBase, Azure, cPanel
-- Webpack, NPM, NVM, Yarn
-- Git, GitHub, Gitlab, Bitbucket
+- Webpack, NPM, PNPM, NVM, Yarn
+- GitHub, Bitbucket
 - OS: Ubuntu, macOS, Window
 - Apache, Nginx server
 
