@@ -6,7 +6,7 @@ I'm specialized in:
 
 - Backend programming languages: Python, Node.js, Nest.js, PHP, Django, Flask, Laravel Framework
 - Frontend programming languages: React.js, Next.js, Vue.js, Angular
-- Mobile app programming language: React Native
+- Mobile app programming language: Flutter, React Native
 - Database: MySQL, Postgresql, NoSQL, MongoDB, GraphQL
 - JavaScript, Typescript, jQuery, Underscore.js
 - HTML, CSS, Twitter Bootstrap, Tailwindcss, Material-UI
