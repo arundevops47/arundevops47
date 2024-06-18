@@ -1,16 +1,17 @@
 # Hi there. I am Arun 👋
 
-I am Full stack developer and having 5 years of experience.
+I am Full stack developer and having more than 7 years of experience.
 
 I'm specialized in:
 
-- Backend programming languages: Python, Node.js, Nest.js, PHP, Django, Flask, Laravel Framework
-- Frontend programming languages: React.js, Next.js, Vue.js, Angular
-- Mobile app programming language: Flutter, React Native
+- Backend programming: Python, Node.js, Nest.js, PHP, Django, Flask, Laravel Framework
+- Frontend programming: React.js, Next.js, Vue.js, Angular
+- Mobile app programming: Flutter, React Native
 - Database: MySQL, Postgresql, NoSQL, MongoDB, GraphQL
 - JavaScript, Typescript, jQuery, Underscore.js
 - HTML, CSS, Twitter Bootstrap, Tailwindcss, Material-UI
 - RESTful and Soap API
+- Artificial Intelligence: ChatGPT API, Gemini API, Embeddings, LangChain, Vector Database (ChromaDB)
 - Paypal and Stripe payment integration
 - AWS/EC2/S3, FireBase, Azure, cPanel
 - Webpack, NPM, PNPM, NVM, Yarn
@@ -26,5 +27,5 @@ I'm specialized in:
 ## Personal Details:
 
 Name: Arun Verma<br>
-Higher Study: B.Tech in Electronics Stream <br>
-Personal Website: https://arunverma.info/<br>
+Higher Study: B.Tech <br>
+Personal Website: https://arunverma.in/<br>
