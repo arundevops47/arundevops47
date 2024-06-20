@@ -115,8 +115,11 @@ Welcome to my GitHub profile! I'm a passionate Full stack developer with experie
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### Web Scraping & Data Extraction
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=flat&logo=web-scraping&logoColor=white)
-![Data Extraction](https://img.shields.io/badge/Data%20Extraction-8E44AD?style=flat&logo=data-extraction&logoColor=white)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-4CAF50?style=flat&logo=beautifulsoup&logoColor=white)
+![lxml](https://img.shields.io/badge/lxml-8E44AD?style=flat&logo=lxml&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-3498DB?style=flat&logo=scrapy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-FF5722?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-9B59B6?style=flat&logo=playwright&logoColor=white)
 
 ### Bot Development
 ![Chatbot Development](https://img.shields.io/badge/Chatbot%20Development-FF5722?style=flat&logo=chatbot&logoColor=white)
@@ -156,5 +159,3 @@ Welcome to my GitHub profile! I'm a passionate Full stack developer with experie
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundevops47&theme=gotham&layout=compact"width="34%"/>
 <a href="https://github.com/arundevops47?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=arundevops47&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="47.5%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
-
-
