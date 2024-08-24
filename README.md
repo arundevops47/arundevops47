@@ -30,11 +30,12 @@ Welcome to my GitHub profile! I'm a passionate Full stack developer with experie
 - Capable of optimizing app performance and ensuring smooth user interactions through efficient coding practices and Flutter's hot reload feature.
 - Focused on delivering high-quality user interfaces that adhere to design guidelines and provide a native-like experience across different devices.
 
-### Database Management (MySQL, PostgreSQL, MongoDB)
-- Proficient in database management with expertise in MySQL, PostgreSQL, and MongoDB.
+### Database Management (MySQL, PostgreSQL, GraphQL, MongoDB)
+- Proficient in database management with expertise in MySQL, PostgreSQL, GraphQL, and MongoDB.
 - Experienced in designing, implementing, and optimizing relational databases such as MySQL and PostgreSQL for efficient data storage and retrieval.
 - Skilled in NoSQL database management with MongoDB, utilizing its flexible schema to handle unstructured data and scalable document storage.
 - Capable of performing database administration tasks including schema design, indexing, querying, and performance tuning to ensure optimal database functionality.
+- Knowledgeable in GraphQL for flexible and efficient querying of APIs, allowing for precise data fetching and aggregation.
 - Focused on maintaining data integrity, security, and availability while adhering to best practices and industry standards in database management.
 
 ### AI (ChatGPT API, Gemini API, LangChain, Embedding, Finetune, Vector Database, Speech to Text, Image Generation)
