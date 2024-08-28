@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Full stack developer with experie
 - Expertise in designing and implementing RESTful and GraphQL APIs, ensuring smooth communication between frontend and backend.
 - Focused on writing secure, maintainable, and well-documented code that supports seamless integration with various frontend frameworks.
 - Committed to optimizing backend performance and scalability to handle high traffic and complex operations efficiently.
+- Experienced with CI/CD pipelines and Docker for streamlined deployment and continuous integration.
 
 ### Frontend Development (React.js, Next.js, Vue.js, Angular, Bootstrap, TailwindCSS, Material-UI, JavaScript, TypeScript, jQuery)
 - Expert in crafting visually appealing and responsive user interfaces using modern frontend frameworks and libraries.
@@ -21,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Full stack developer with experie
 - Adept with Material-UI for implementing Google's Material Design principles in web applications.
 - Strong foundation in core web technologies such as JavaScript and TypeScript for writing clean, maintainable, and scalable code.
 - Experienced in jQuery for manipulating the DOM and handling events efficiently in legacy projects.
+- Proficient in using Jest for testing React applications to ensure code quality and reliability.
 - Focused on delivering high-quality user experiences with attention to detail and best practices in frontend development.
 
 ### Mobile App Development (Flutter)
