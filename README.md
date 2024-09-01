@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate Full stack developer with experie
 - Proficient in using Jest for testing React applications to ensure code quality and reliability.
 - Focused on delivering high-quality user experiences with attention to detail and best practices in frontend development.
 
-### Mobile App Development (Flutter)
-- Proficient in developing cross-platform mobile applications using Flutter.
+### Mobile App Development (Flutter, React Native)
+- Proficient in developing cross-platform mobile applications using Flutter and React Native.
 - Experienced in utilizing Flutter's expressive and flexible UI framework to create visually rich and responsive apps for both Android and iOS platforms.
 - Skilled in integrating platform-specific APIs and third-party services seamlessly into Flutter applications to enhance functionality and user experience.
 - Capable of optimizing app performance and ensuring smooth user interactions through efficient coding practices and Flutter's hot reload feature.
